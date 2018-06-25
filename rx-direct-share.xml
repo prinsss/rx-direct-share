@@ -1,0 +1,5 @@
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3" type="service" sender="any">
+  <intent-filter>
+    <action name="android.service.chooser.ChooserTargetService" />
+  </intent-filter>
+</prescription>
